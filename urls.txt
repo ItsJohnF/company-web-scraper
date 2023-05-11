@@ -1,0 +1,17 @@
+http://hosted2.ap.org/atom/APDEFAULT/f70471f764144b2fab526d39972d37b3
+http://online.wsj.com/xml/rss/3_7014.xml
+http://www.nytimes.com/services/xml/rss/nyt/Business.xml
+http://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+http://feeds.reuters.com/reuters/businessNews
+http://feeds.washingtonpost.com/rss/rss_storyline
+http://feeds.washingtonpost.com/rss/rss_wonkblog
+http://www.economist.com/feeds/print-sections/77/business.xml
+http://www.business-standard.com/rss/latest.rss
+http://www.business-standard.com/rss/home_page_top_stories.rss
+http://feeds.harvardbusiness.org/harvardbusiness?format=xml
+http://au.ibtimes.com/rss/articles/region/1.rss
+http://www.businessweek.com/search/rssfeed.htm
+http://www.huffingtonpost.com/feeds/verticals/business/news.xml
+http://www.ft.com/rss/home/us
+http://rss.cnn.com/rss/edition_business.rss
+http://www.bloomberg.com/feed/podcast/law.xml
