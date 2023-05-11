@@ -1,4 +1,4 @@
-# company-web-scraper
+# Company Web Scraper
 Scrape RSS Feeds to see if the items mention a company.
 
 # How to Use
